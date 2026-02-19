@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "白く咲く花",
+  "base_artist": "小倉唯",
+  "createdAt": "2026-02-19T23:56:28.403671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白く咲く花",
+      "artist": "Yui Ogura",
+      "has_synced": false,
+      "path": "select/01_白く咲く花_Yui_Ogura.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白く咲く花",
+      "artist": "小倉唯",
+      "has_synced": false,
+      "path": "select/02_白く咲く花_小倉唯.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白く咲く花",
+      "artist": "小倉唯",
+      "has_synced": false,
+      "path": "select/pl_01_白く咲く花_小倉唯.txt"
+    }
+  ]
+}
